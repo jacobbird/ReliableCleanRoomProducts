@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+.ArialStore{
+
+font:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#333333;
+
+}
+
+.ArialStoreWhite{
+
+font:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#FFFFFF;
+
+}
+
+.ArialStoreWhiteBold{
+
+font:Arial, Helvetica, sans-serif;
+font-size:22px;
+color:#FFFFFF;
+font-weight:bold;
+
+
+}
+
+
+.ArialStoreGreyBold{
+
+font:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#222222;
+font-weight:bold;
+
+
+}
+
+.ArialStoreTitle{
+
+font:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#555555;
+font-weight:bold;
+
+}
+
+.ArialStoreTitleWhite{
+
+font:Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#FFFFFF;
+font-weight:bold;
+
+}
+
+.ArialStoreYou{
+
+font:Arial, Helvetica, sans-serif;
+font-size:22px;
+color:#555555;
+font-weight:bold;
+
+}
+
